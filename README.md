@@ -1,6 +1,6 @@
 # Atliq-Mart-Supply-Chain-Analysis
 
-# [Power Bi dashboard]([https://example.com](https://app.powerbi.com/view?r=eyJrIjoiYmFlOWJkZGItNmQ1ZS00YjlkLWEwNjgtNjA1N2IwNjkwYjUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Power Bi Report : [Here]([https://example.com](https://app.powerbi.com/view?r=eyJrIjoiYmFlOWJkZGItNmQ1ZS00YjlkLWEwNjgtNjA1N2IwNjkwYjUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Problem Statement
 AtliQ Mart is a rapidly expanding FMCG (Fast-Moving Consumer Goods) manufacturer headquartered in Gujarat, India. With current operations in Surat, Ahmedabad, and Vadodara, the company has ambitious plans to scale its presence to other Tier-1 and metropolitan cities over the next two years.
